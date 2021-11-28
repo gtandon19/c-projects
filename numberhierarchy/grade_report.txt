@@ -1,0 +1,88 @@
+Starting Autograder...
+
+============Construtor/Magnitude/Phase Tests============
+1. RealNumber Construtor/Magnitude/Phase +0pts
+
+2. ImaginaryNumber Construtor/Magnitude/Phase +0pts
+
+3. ComplexNumber Construtor/Magnitude/Phase +0pts
+
+
+============Getter and Setter Tests============
+4. RealNumber Getter/Setter +0pts
+
+5. ImaginaryNumber Getter/Setter +0pts
+
+6. ComplexNumber Getter/Setter +0pts
+
+
+============Real Number Calculation Tests============
+7. RealNumber (op) RealNumber 
+Test 7: Error in + operator
+Test 7: Error in - operator
+Test 7: Error in * operator
+Test 7: Error in / operator
++0pts
+
+8. RealNumber (op) ImaginaryNumber 
+Test 8: Error in + operator
+Test 8: Error in - operator
+Test 8: Error in * operator
+Test 8: Error in / operator
++0pts
+
+9. RealNumber (op) ComplexNumber 
+Test 9: Error in + operator
+Test 9: Error in - operator
+Test 9: Error in * operator
+Test 9: Error in / operator
++0pts
+
+
+============Imaginary Number Calculation Tests============
+10. ImaginaryNumber (op) RealNumber 
+Test 10: Error in + operator
+Test 10: Error in - operator
+Test 10: Error in * operator
+Test 10: Error in / operator
++0pts
+
+11. ImaginaryNumber (op) ImaginaryNumber 
+Test 11: Error in + operator
+Test 11: Error in - operator
+Test 11: Error in * operator
+Test 11: Error in / operator
++0pts
+
+12. ImaginaryNumber (op) ComplexNumber 
+Test 12: Error in + operator
+Test 12: Error in - operator
+Test 12: Error in * operator
+Test 12: Error in / operator
++0pts
+
+
+============Complex Number Calculation Tests============
+13. ComplexNumber (op) RealNumber 
+Test 13: Error in + operator
+Test 13: Error in - operator
+Test 13: Error in * operator
+Test 13: Error in / operator
++0pts
+
+14. ComplexNumber (op) ImaginaryNumber 
+Test14 : Error in + operator
+Test14 : Error in - operator
+Test14 : Error in * operator
+Test14 : Error in / operator
++0pts
+
+15. ComplexNumber (op) ComplexNumber 
+Test15: Error in + operator
+Test15: Error in - operator
+Test15: Error in * operator
+Test15: Error in / operator
++0pts
+
+
+Grading Complete! Total score is 0 out of 100 points.
