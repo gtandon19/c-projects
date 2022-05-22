@@ -1,2 +1,2 @@
 # c-projects
-All C++ Projects done in classes / outside.
+Projects done in C / C++ within classes (ECE 220, CS 225) and beyond.
